@@ -28,11 +28,11 @@ The below list the minimum milestones that should be captured in a tentative
 schedule along with the estimated time frame for completion.  Milestones are
 explained further in this document.
 
-| TODO | Milestone | Estimated time |
+| Task | Milestone | Estimated time |
 | -- | -- | -- |
 | * [ ] | Audience, Goals, & refining scope | 1 week |
 | * [ ] | Tasking Assignment | 1 week |
-| * [ ] | Content Rough-in | 2-3 weeks |
+| * [ ] | Content Outline | 2-3 weeks |
 | * [ ] | Collaborative Review | 2 weeks |
 | * [ ] | Executive Summary and content wrap up | 2 weeks |
 | * [ ] | Narrative Voice | 1-2 weeks |
