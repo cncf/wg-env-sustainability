@@ -13,7 +13,7 @@ to ensure that there is a clearly identified lead and a well defined paper
 scope.
 
 The paper scope and topic should be raised in at least one WG meeting to
-solicit more volunteers (ideally 4).  Interested parties should meet at least
+solicit more volunteers (ideally 4). A diverse group of contributors from different companies/geos/backgrounds would be valuable. Interested parties should meet at least
 once to describe the intent of the paper, & propose a very rough outline to
 present to WG leadership for planning and scheduling as a project.
 
@@ -119,13 +119,14 @@ No more than three contributing individuals should be assigned for narrative
 voice. The narrative voice is a semi-final pass of the paper to ensure it reads
 as a single, unified voice. It should ensure:
 
-* the language origin is consistent throughout the document (lang_en or
-  lang_us),
-* phrasing is similar (caddy corner not mixed in with kitty corner),
+* the language origin is consistent throughout the document
+  * lang_en or lang_us,
+  * avoid regional slang
+  * keep same phrasing
 * acronyms are spelled out at their first use and then abbreviated later,
 * footnotes and citations are consistent and not direct hyperlinks in the text
 * vague terms are defined in a glossary or otherwise cited to the cloud native
-  environmental sustainability lexicon in the repo
+  environmental sustainability lexicon in the repo,
 
 ### Final group review
 

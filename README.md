@@ -12,7 +12,7 @@ The Environmental Sustainability [charter](charter.md) outlines the scope of our
 
 ## Meetings
 
-* The working group meets every Wednesday at 5pm CEST/GMT+2 
+* The working group meets every Wednesday at 5pm CEST/GMT+2 or 8am PST
   * Meeting Link: https://zoom.us/my/cncfwgenvsustainability
   * Password: 77777
 * Meeting notes & agenda can be found [here](https://docs.google.com/document/d/1TkmMyXJABC66NfYmivnh7z8Y_vpq9f9foaOuDVQS_Lo/edit#)
@@ -21,7 +21,7 @@ The Environmental Sustainability [charter](charter.md) outlines the scope of our
 
 ## Members
 
-> The WG is currently in its initialization phase, members needs to be elected, projects needs to be organized and roles assigned
+> The WG is currently in its initialization phase, members need to be elected, projects needs to be organized and roles assigned
 
 ### Environmental Sustainability Chairs
 
