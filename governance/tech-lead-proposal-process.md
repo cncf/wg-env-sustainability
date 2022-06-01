@@ -31,7 +31,7 @@ process](https://github.com/cncf/toc/blob/main/tags/cncf-tags.md#elections).
 
 Community nominees should adhere to the technical lead nomination requirements
 described below. Any individual who is a member of the WG list or the
-tag-security slack channel may nominate another individual.
+wg-environmental-sustainability slack channel may nominate another individual.
 
 The co-chairs reserve the right to endorse a nominee by the community based on:
 
@@ -90,7 +90,7 @@ commitment is present to move forward with an endorsement.
 Nominees must:
 <!--markdownlint-disable MD005 MD007 -->
 
-* have been project or review lead on at least one project or security assessment/review
+* have been project or review lead on at least one project
 * be the author of at least one pull request against the WG repository
 * be active in the community within the last 6 months prior to their nomination.
  * active - Attending at least 1 Environmental Sustainability WG Regular Meeting a month
