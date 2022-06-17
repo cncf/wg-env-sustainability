@@ -27,6 +27,10 @@ The Environmental Sustainability [charter](charter.md) outlines the scope of our
 
 * Max Körbächer ([@mkorbi](https://github.com/mkorbi)), Liquid Reply [Chair term: 01.06.2022 - 01.06.2024]
 * Leonard Pahlke ([@leonardpahlke](https://github.com/leonardpahlke)), Liquid Reply [Chair term: 01.06.2022 - 01.06.2024]
+* 3rd co-chair - open
 
 ### Environmental Sustainability Tech Leads
+* 1st co-tech lead - open
+* 2nd co-tech lead - open
+* 3rd co-tech lead - open
 

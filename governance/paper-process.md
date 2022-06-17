@@ -147,7 +147,7 @@ actively solicit public comment.
 ### Public comment adjudication
 
 Prior to opening the paper for community review, the group should select no more
-than 3 Adjudicators.  These individuals are tasked with accepting/rejecting
+than 3 Adjudicators from different organizations/companies and geolocations. These individuals are tasked with accepting/rejecting
 suggestions, and resolving comments from the community.  Any comments or
 suggestions that require larger discussion should be brought up in a group
 meeting and decisively resolved. These should be clearly documented with
