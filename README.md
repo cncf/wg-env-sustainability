@@ -6,9 +6,24 @@ We want to raise awareness of environmental sustainability as a key element of o
 
 The [Environmental Sustainability WG Charter](charter.md) further outlines the scope of our group activities as well as the goals and intended deliverables.
 
+## New contributors
+
+If you are new to the group, we encourage you to check out our [First Time Contributing](/CONTRIBUTING/first-time-contributions.md) Page.
+
+**tl;dr**
+We utilize GitHub Discussions to open a space for asynchronously discussing topics of interest and move them out of mailing lists and slack threads.
+
+Issues within this repository are meant for active tasks and work organization. 
+
+
 ## Meetings
 
 * The working group meets every 1st and 3rd Wednesday at 5pm CEST/GMT+2 on [Zoom](https://zoom.us/my/cncfwgenvsustainability)
 * Meeting notes & agenda can be found [here](https://docs.google.com/document/d/1TkmMyXJABC66NfYmivnh7z8Y_vpq9f9foaOuDVQS_Lo/edit#)
 * Public discussion runs on https://lists.cncf.io/g/cncf-wg-env-sustainability/ via mailto:cncf-wg-env-sustainability@lists.cncf.io
 * Reach us at [#wg-environmental-sustainability](https://cloud-native.slack.com/archives/C03F270PDU6) slack channel on slack.cncf.io
+
+
+## Members
+
+All active members can be found at the [member.md](members.md).
